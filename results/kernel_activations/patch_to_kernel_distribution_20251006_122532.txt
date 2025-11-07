@@ -1,0 +1,2970 @@
+Patch 0:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 1:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 2:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 3:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 4:
+  - Kernel 3: 100.00%
+---
+Patch 5:
+  - Kernel 3: 100.00%
+---
+Patch 6:
+  - Kernel 3: 100.00%
+---
+Patch 7:
+  - Kernel 3: 100.00%
+---
+Patch 8:
+  - Kernel 3: 100.00%
+---
+Patch 9:
+  - Kernel 3: 100.00%
+---
+Patch 10:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 11:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 12:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 13:
+  - Kernel 3: 100.00%
+---
+Patch 14:
+  - Kernel 3: 100.00%
+---
+Patch 15:
+  - Kernel 3: 100.00%
+---
+Patch 16:
+  - Kernel 3: 100.00%
+---
+Patch 17:
+  - Kernel 3: 100.00%
+---
+Patch 18:
+  - Kernel 3: 100.00%
+---
+Patch 19:
+  - Kernel 3: 100.00%
+---
+Patch 20:
+  - Kernel 3: 100.00%
+---
+Patch 21:
+  - Kernel 3: 100.00%
+---
+Patch 22:
+  - Kernel 3: 100.00%
+---
+Patch 23:
+  - Kernel 3: 100.00%
+---
+Patch 24:
+  - Kernel 3: 100.00%
+---
+Patch 25:
+  - Kernel 3: 100.00%
+---
+Patch 26:
+  - Kernel 3: 100.00%
+---
+Patch 27:
+  - Kernel 3: 100.00%
+---
+Patch 28:
+  - Kernel 3: 100.00%
+---
+Patch 29:
+  - Kernel 3: 100.00%
+---
+Patch 30:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 31:
+  - Kernel 3: 100.00%
+---
+Patch 32:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 33:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 34:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 35:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 36:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 37:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 38:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 39:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 40:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 41:
+  - Kernel 3: 100.00%
+---
+Patch 42:
+  - Kernel 3: 100.00%
+---
+Patch 43:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 44:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 45:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 46:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 47:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 48:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 49:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 50:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 51:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 52:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 53:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 54:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 55:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 56:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 57:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 58:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 59:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 60:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 61:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 62:
+  - Kernel 3: 100.00%
+---
+Patch 63:
+  - Kernel 3: 100.00%
+---
+Patch 64:
+  - Kernel 3: 100.00%
+---
+Patch 65:
+  - Kernel 3: 100.00%
+---
+Patch 66:
+  - Kernel 3: 100.00%
+---
+Patch 67:
+  - Kernel 3: 100.00%
+---
+Patch 68:
+  - Kernel 3: 100.00%
+---
+Patch 69:
+  - Kernel 3: 100.00%
+---
+Patch 70:
+  - Kernel 3: 100.00%
+---
+Patch 71:
+  - Kernel 3: 100.00%
+---
+Patch 72:
+  - Kernel 3: 100.00%
+---
+Patch 73:
+  - Kernel 3: 100.00%
+---
+Patch 74:
+  - Kernel 3: 100.00%
+---
+Patch 75:
+  - Kernel 3: 100.00%
+---
+Patch 76:
+  - Kernel 3: 100.00%
+---
+Patch 77:
+  - Kernel 3: 100.00%
+---
+Patch 78:
+  - Kernel 3: 100.00%
+---
+Patch 79:
+  - Kernel 3: 100.00%
+---
+Patch 80:
+  - Kernel 3: 100.00%
+---
+Patch 81:
+  - Kernel 3: 100.00%
+---
+Patch 82:
+  - Kernel 3: 100.00%
+---
+Patch 83:
+  - Kernel 3: 100.00%
+---
+Patch 84:
+  - Kernel 3: 100.00%
+---
+Patch 85:
+  - Kernel 3: 100.00%
+---
+Patch 86:
+  - Kernel 3: 100.00%
+---
+Patch 87:
+  - Kernel 3: 100.00%
+---
+Patch 88:
+  - Kernel 3: 100.00%
+---
+Patch 89:
+  - Kernel 3: 100.00%
+---
+Patch 90:
+  - Kernel 3: 100.00%
+---
+Patch 91:
+  - Kernel 3: 100.00%
+---
+Patch 92:
+  - Kernel 3: 100.00%
+---
+Patch 93:
+  - Kernel 3: 100.00%
+---
+Patch 94:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 95:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 96:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 97:
+  - Kernel 3: 100.00%
+---
+Patch 98:
+  - Kernel 3: 100.00%
+---
+Patch 99:
+  - Kernel 3: 100.00%
+---
+Patch 100:
+  - Kernel 3: 100.00%
+---
+Patch 101:
+  - Kernel 3: 100.00%
+---
+Patch 102:
+  - Kernel 3: 100.00%
+---
+Patch 103:
+  - Kernel 3: 100.00%
+---
+Patch 104:
+  - Kernel 3: 100.00%
+---
+Patch 105:
+  - Kernel 3: 100.00%
+---
+Patch 106:
+  - Kernel 3: 100.00%
+---
+Patch 107:
+  - Kernel 3: 100.00%
+---
+Patch 108:
+  - Kernel 3: 100.00%
+---
+Patch 109:
+  - Kernel 3: 100.00%
+---
+Patch 110:
+  - Kernel 3: 100.00%
+---
+Patch 111:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 112:
+  - Kernel 3: 100.00%
+---
+Patch 113:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 114:
+  - Kernel 3: 100.00%
+---
+Patch 115:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 116:
+  - Kernel 3: 100.00%
+---
+Patch 117:
+  - Kernel 3: 100.00%
+---
+Patch 118:
+  - Kernel 3: 100.00%
+---
+Patch 119:
+  - Kernel 3: 100.00%
+---
+Patch 120:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 121:
+  - Kernel 3: 100.00%
+---
+Patch 122:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 123:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 124:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 125:
+  - Kernel 3: 100.00%
+---
+Patch 126:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 127:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 128:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 129:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 130:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 131:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 132:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 133:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 134:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 135:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 136:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 137:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 138:
+  - Kernel 3: 100.00%
+---
+Patch 139:
+  - Kernel 3: 100.00%
+---
+Patch 140:
+  - Kernel 3: 100.00%
+---
+Patch 141:
+  - Kernel 3: 100.00%
+---
+Patch 142:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 143:
+  - Kernel 3: 100.00%
+---
+Patch 144:
+  - Kernel 3: 100.00%
+---
+Patch 145:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 146:
+  - Kernel 3: 100.00%
+---
+Patch 147:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 148:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 149:
+  - Kernel 3: 75.00%
+  - Kernel 2: 25.00%
+---
+Patch 150:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 151:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 152:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 153:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 154:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 155:
+  - Kernel 3: 100.00%
+---
+Patch 156:
+  - Kernel 3: 100.00%
+---
+Patch 157:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 158:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 159:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 160:
+  - Kernel 3: 100.00%
+---
+Patch 161:
+  - Kernel 3: 100.00%
+---
+Patch 162:
+  - Kernel 3: 100.00%
+---
+Patch 163:
+  - Kernel 3: 100.00%
+---
+Patch 164:
+  - Kernel 3: 100.00%
+---
+Patch 165:
+  - Kernel 3: 100.00%
+---
+Patch 166:
+  - Kernel 3: 100.00%
+---
+Patch 167:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 168:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 169:
+  - Kernel 3: 100.00%
+---
+Patch 170:
+  - Kernel 3: 100.00%
+---
+Patch 171:
+  - Kernel 3: 100.00%
+---
+Patch 172:
+  - Kernel 3: 100.00%
+---
+Patch 173:
+  - Kernel 3: 100.00%
+---
+Patch 174:
+  - Kernel 3: 100.00%
+---
+Patch 175:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 176:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 177:
+  - Kernel 3: 100.00%
+---
+Patch 178:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 179:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 180:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 181:
+  - Kernel 3: 100.00%
+---
+Patch 182:
+  - Kernel 3: 100.00%
+---
+Patch 183:
+  - Kernel 3: 100.00%
+---
+Patch 184:
+  - Kernel 3: 100.00%
+---
+Patch 185:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 186:
+  - Kernel 3: 100.00%
+---
+Patch 187:
+  - Kernel 3: 100.00%
+---
+Patch 188:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 189:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 190:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 191:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 192:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 193:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 194:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 195:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 196:
+  - Kernel 3: 100.00%
+---
+Patch 197:
+  - Kernel 3: 100.00%
+---
+Patch 198:
+  - Kernel 3: 100.00%
+---
+Patch 199:
+  - Kernel 3: 100.00%
+---
+Patch 200:
+  - Kernel 3: 100.00%
+---
+Patch 201:
+  - Kernel 3: 100.00%
+---
+Patch 202:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 203:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 204:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 205:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 206:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 207:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 208:
+  - Kernel 3: 100.00%
+---
+Patch 209:
+  - Kernel 3: 100.00%
+---
+Patch 210:
+  - Kernel 3: 100.00%
+---
+Patch 211:
+  - Kernel 3: 100.00%
+---
+Patch 212:
+  - Kernel 3: 100.00%
+---
+Patch 213:
+  - Kernel 3: 100.00%
+---
+Patch 214:
+  - Kernel 3: 100.00%
+---
+Patch 215:
+  - Kernel 3: 100.00%
+---
+Patch 216:
+  - Kernel 3: 100.00%
+---
+Patch 217:
+  - Kernel 3: 100.00%
+---
+Patch 218:
+  - Kernel 3: 100.00%
+---
+Patch 219:
+  - Kernel 3: 100.00%
+---
+Patch 220:
+  - Kernel 3: 100.00%
+---
+Patch 221:
+  - Kernel 3: 100.00%
+---
+Patch 222:
+  - Kernel 3: 100.00%
+---
+Patch 223:
+  - Kernel 3: 100.00%
+---
+Patch 224:
+  - Kernel 3: 100.00%
+---
+Patch 225:
+  - Kernel 3: 100.00%
+---
+Patch 226:
+  - Kernel 3: 100.00%
+---
+Patch 227:
+  - Kernel 3: 100.00%
+---
+Patch 228:
+  - Kernel 3: 100.00%
+---
+Patch 229:
+  - Kernel 3: 100.00%
+---
+Patch 230:
+  - Kernel 3: 100.00%
+---
+Patch 231:
+  - Kernel 3: 100.00%
+---
+Patch 232:
+  - Kernel 3: 100.00%
+---
+Patch 233:
+  - Kernel 3: 100.00%
+---
+Patch 234:
+  - Kernel 3: 100.00%
+---
+Patch 235:
+  - Kernel 3: 100.00%
+---
+Patch 236:
+  - Kernel 3: 100.00%
+---
+Patch 237:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 238:
+  - Kernel 3: 100.00%
+---
+Patch 239:
+  - Kernel 3: 100.00%
+---
+Patch 240:
+  - Kernel 3: 100.00%
+---
+Patch 241:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 242:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 243:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 244:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 245:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 246:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 247:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 248:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 249:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 250:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 251:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 252:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 253:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 254:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 255:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 256:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 257:
+  - Kernel 3: 100.00%
+---
+Patch 258:
+  - Kernel 3: 100.00%
+---
+Patch 259:
+  - Kernel 3: 100.00%
+---
+Patch 260:
+  - Kernel 3: 100.00%
+---
+Patch 261:
+  - Kernel 3: 100.00%
+---
+Patch 262:
+  - Kernel 3: 100.00%
+---
+Patch 263:
+  - Kernel 3: 100.00%
+---
+Patch 264:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 265:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 266:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 267:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 268:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 269:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 270:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 271:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 272:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 273:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 274:
+  - Kernel 3: 100.00%
+---
+Patch 275:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 276:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 277:
+  - Kernel 3: 100.00%
+---
+Patch 278:
+  - Kernel 3: 100.00%
+---
+Patch 279:
+  - Kernel 3: 100.00%
+---
+Patch 280:
+  - Kernel 3: 100.00%
+---
+Patch 281:
+  - Kernel 3: 100.00%
+---
+Patch 282:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 283:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 284:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 285:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 286:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 287:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 288:
+  - Kernel 3: 80.00%
+  - Kernel 2: 20.00%
+---
+Patch 289:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 290:
+  - Kernel 3: 100.00%
+---
+Patch 291:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 292:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 293:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 294:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 295:
+  - Kernel 3: 100.00%
+---
+Patch 296:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 297:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 298:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 299:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 300:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 301:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 302:
+  - Kernel 3: 100.00%
+---
+Patch 303:
+  - Kernel 3: 100.00%
+---
+Patch 304:
+  - Kernel 3: 100.00%
+---
+Patch 305:
+  - Kernel 3: 100.00%
+---
+Patch 306:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 307:
+  - Kernel 3: 100.00%
+---
+Patch 308:
+  - Kernel 3: 100.00%
+---
+Patch 309:
+  - Kernel 3: 100.00%
+---
+Patch 310:
+  - Kernel 3: 100.00%
+---
+Patch 311:
+  - Kernel 3: 100.00%
+---
+Patch 312:
+  - Kernel 3: 100.00%
+---
+Patch 313:
+  - Kernel 3: 100.00%
+---
+Patch 314:
+  - Kernel 3: 100.00%
+---
+Patch 315:
+  - Kernel 3: 100.00%
+---
+Patch 316:
+  - Kernel 3: 100.00%
+---
+Patch 317:
+  - Kernel 3: 100.00%
+---
+Patch 318:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 319:
+  - Kernel 3: 100.00%
+---
+Patch 320:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 321:
+  - Kernel 3: 100.00%
+---
+Patch 322:
+  - Kernel 3: 100.00%
+---
+Patch 323:
+  - Kernel 3: 100.00%
+---
+Patch 324:
+  - Kernel 3: 100.00%
+---
+Patch 325:
+  - Kernel 3: 100.00%
+---
+Patch 326:
+  - Kernel 3: 100.00%
+---
+Patch 327:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 328:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 329:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 330:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 331:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 332:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 333:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 334:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 335:
+  - Kernel 3: 100.00%
+---
+Patch 336:
+  - Kernel 3: 100.00%
+---
+Patch 337:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 338:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 339:
+  - Kernel 3: 100.00%
+---
+Patch 340:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 341:
+  - Kernel 3: 100.00%
+---
+Patch 342:
+  - Kernel 3: 100.00%
+---
+Patch 343:
+  - Kernel 3: 100.00%
+---
+Patch 344:
+  - Kernel 3: 100.00%
+---
+Patch 345:
+  - Kernel 3: 100.00%
+---
+Patch 346:
+  - Kernel 3: 100.00%
+---
+Patch 347:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 348:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 349:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 350:
+  - Kernel 3: 100.00%
+---
+Patch 351:
+  - Kernel 3: 100.00%
+---
+Patch 352:
+  - Kernel 3: 100.00%
+---
+Patch 353:
+  - Kernel 3: 100.00%
+---
+Patch 354:
+  - Kernel 3: 100.00%
+---
+Patch 355:
+  - Kernel 3: 100.00%
+---
+Patch 356:
+  - Kernel 3: 100.00%
+---
+Patch 357:
+  - Kernel 3: 100.00%
+---
+Patch 358:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 359:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 360:
+  - Kernel 3: 100.00%
+---
+Patch 361:
+  - Kernel 3: 100.00%
+---
+Patch 362:
+  - Kernel 3: 100.00%
+---
+Patch 363:
+  - Kernel 3: 100.00%
+---
+Patch 364:
+  - Kernel 3: 100.00%
+---
+Patch 365:
+  - Kernel 3: 100.00%
+---
+Patch 366:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 367:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 368:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 369:
+  - Kernel 3: 100.00%
+---
+Patch 370:
+  - Kernel 3: 100.00%
+---
+Patch 371:
+  - Kernel 3: 100.00%
+---
+Patch 372:
+  - Kernel 3: 100.00%
+---
+Patch 373:
+  - Kernel 3: 100.00%
+---
+Patch 374:
+  - Kernel 3: 100.00%
+---
+Patch 375:
+  - Kernel 3: 100.00%
+---
+Patch 376:
+  - Kernel 3: 100.00%
+---
+Patch 377:
+  - Kernel 3: 100.00%
+---
+Patch 378:
+  - Kernel 3: 100.00%
+---
+Patch 379:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 380:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 381:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 382:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 383:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 384:
+  - Kernel 3: 100.00%
+---
+Patch 385:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 386:
+  - Kernel 3: 100.00%
+---
+Patch 387:
+  - Kernel 3: 100.00%
+---
+Patch 388:
+  - Kernel 3: 100.00%
+---
+Patch 389:
+  - Kernel 3: 100.00%
+---
+Patch 390:
+  - Kernel 3: 100.00%
+---
+Patch 391:
+  - Kernel 3: 80.00%
+  - Kernel 2: 20.00%
+---
+Patch 392:
+  - Kernel 3: 100.00%
+---
+Patch 393:
+  - Kernel 3: 100.00%
+---
+Patch 394:
+  - Kernel 3: 100.00%
+---
+Patch 395:
+  - Kernel 3: 100.00%
+---
+Patch 396:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 397:
+  - Kernel 3: 100.00%
+---
+Patch 398:
+  - Kernel 3: 100.00%
+---
+Patch 399:
+  - Kernel 3: 100.00%
+---
+Patch 400:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 401:
+  - Kernel 3: 100.00%
+---
+Patch 402:
+  - Kernel 3: 100.00%
+---
+Patch 403:
+  - Kernel 3: 100.00%
+---
+Patch 404:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 405:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 406:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 407:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 408:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 409:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 410:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 411:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 412:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 413:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 414:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 415:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 416:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 417:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 418:
+  - Kernel 3: 100.00%
+---
+Patch 419:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 420:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 421:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 422:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 423:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 424:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 425:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 426:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 427:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 428:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 429:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 430:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 431:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 432:
+  - Kernel 3: 100.00%
+---
+Patch 433:
+  - Kernel 3: 100.00%
+---
+Patch 434:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 435:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 436:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 437:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 438:
+  - Kernel 3: 100.00%
+---
+Patch 439:
+  - Kernel 3: 100.00%
+---
+Patch 440:
+  - Kernel 3: 100.00%
+---
+Patch 441:
+  - Kernel 3: 100.00%
+---
+Patch 442:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 443:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 444:
+  - Kernel 3: 100.00%
+---
+Patch 445:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 446:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 447:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 448:
+  - Kernel 3: 100.00%
+---
+Patch 449:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 450:
+  - Kernel 3: 100.00%
+---
+Patch 451:
+  - Kernel 3: 100.00%
+---
+Patch 452:
+  - Kernel 3: 100.00%
+---
+Patch 453:
+  - Kernel 3: 100.00%
+---
+Patch 454:
+  - Kernel 3: 100.00%
+---
+Patch 455:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 456:
+  - Kernel 3: 100.00%
+---
+Patch 457:
+  - Kernel 3: 100.00%
+---
+Patch 458:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 459:
+  - Kernel 3: 100.00%
+---
+Patch 460:
+  - Kernel 3: 100.00%
+---
+Patch 461:
+  - Kernel 3: 100.00%
+---
+Patch 462:
+  - Kernel 3: 100.00%
+---
+Patch 463:
+  - Kernel 3: 100.00%
+---
+Patch 464:
+  - Kernel 3: 100.00%
+---
+Patch 465:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 466:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 467:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 468:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 469:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 470:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 471:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 472:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 473:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 474:
+  - Kernel 3: 100.00%
+---
+Patch 475:
+  - Kernel 3: 100.00%
+---
+Patch 476:
+  - Kernel 3: 100.00%
+---
+Patch 477:
+  - Kernel 3: 100.00%
+---
+Patch 478:
+  - Kernel 3: 100.00%
+---
+Patch 479:
+  - Kernel 3: 100.00%
+---
+Patch 480:
+  - Kernel 3: 100.00%
+---
+Patch 481:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 482:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 483:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 484:
+  - Kernel 3: 100.00%
+---
+Patch 485:
+  - Kernel 3: 100.00%
+---
+Patch 486:
+  - Kernel 3: 100.00%
+---
+Patch 487:
+  - Kernel 3: 100.00%
+---
+Patch 488:
+  - Kernel 3: 100.00%
+---
+Patch 489:
+  - Kernel 3: 100.00%
+---
+Patch 490:
+  - Kernel 3: 100.00%
+---
+Patch 491:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 492:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 493:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 494:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 495:
+  - Kernel 3: 100.00%
+---
+Patch 496:
+  - Kernel 3: 100.00%
+---
+Patch 497:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 498:
+  - Kernel 3: 100.00%
+---
+Patch 499:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 500:
+  - Kernel 3: 100.00%
+---
+Patch 501:
+  - Kernel 3: 100.00%
+---
+Patch 502:
+  - Kernel 3: 100.00%
+---
+Patch 503:
+  - Kernel 3: 100.00%
+---
+Patch 504:
+  - Kernel 3: 100.00%
+---
+Patch 505:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 506:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 507:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 508:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 509:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 510:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 511:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 512:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 513:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 514:
+  - Kernel 3: 100.00%
+---
+Patch 515:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 516:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 517:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 518:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 519:
+  - Kernel 3: 100.00%
+---
+Patch 520:
+  - Kernel 3: 100.00%
+---
+Patch 521:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 522:
+  - Kernel 3: 100.00%
+---
+Patch 523:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 524:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 525:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 526:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 527:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 528:
+  - Kernel 3: 100.00%
+---
+Patch 529:
+  - Kernel 3: 100.00%
+---
+Patch 530:
+  - Kernel 3: 100.00%
+---
+Patch 531:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 532:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 533:
+  - Kernel 3: 100.00%
+---
+Patch 534:
+  - Kernel 3: 100.00%
+---
+Patch 535:
+  - Kernel 3: 100.00%
+---
+Patch 536:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 537:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 538:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 539:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 540:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 541:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 542:
+  - Kernel 3: 100.00%
+---
+Patch 543:
+  - Kernel 3: 100.00%
+---
+Patch 544:
+  - Kernel 3: 100.00%
+---
+Patch 545:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 546:
+  - Kernel 3: 100.00%
+---
+Patch 547:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 548:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 549:
+  - Kernel 3: 100.00%
+---
+Patch 550:
+  - Kernel 3: 100.00%
+---
+Patch 551:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 552:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 553:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 554:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 555:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 556:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 557:
+  - Kernel 3: 100.00%
+---
+Patch 558:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 559:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 560:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 561:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 562:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 563:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 564:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 565:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 566:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 567:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 568:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 569:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 570:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 571:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 572:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 573:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 574:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 575:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 576:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 577:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 578:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 579:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 580:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 581:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 582:
+  - Kernel 3: 100.00%
+---
+Patch 583:
+  - Kernel 3: 100.00%
+---
+Patch 584:
+  - Kernel 3: 100.00%
+---
+Patch 585:
+  - Kernel 3: 100.00%
+---
+Patch 586:
+  - Kernel 3: 100.00%
+---
+Patch 587:
+  - Kernel 3: 100.00%
+---
+Patch 588:
+  - Kernel 3: 100.00%
+---
+Patch 589:
+  - Kernel 3: 100.00%
+---
+Patch 590:
+  - Kernel 3: 100.00%
+---
+Patch 591:
+  - Kernel 3: 100.00%
+---
+Patch 592:
+  - Kernel 3: 100.00%
+---
+Patch 593:
+  - Kernel 3: 100.00%
+---
+Patch 594:
+  - Kernel 3: 100.00%
+---
+Patch 595:
+  - Kernel 3: 100.00%
+---
+Patch 596:
+  - Kernel 3: 100.00%
+---
+Patch 597:
+  - Kernel 3: 100.00%
+---
+Patch 598:
+  - Kernel 3: 100.00%
+---
+Patch 599:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 600:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 601:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 602:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 603:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 604:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 605:
+  - Kernel 3: 100.00%
+---
+Patch 606:
+  - Kernel 3: 100.00%
+---
+Patch 607:
+  - Kernel 3: 100.00%
+---
+Patch 608:
+  - Kernel 3: 100.00%
+---
+Patch 609:
+  - Kernel 3: 100.00%
+---
+Patch 610:
+  - Kernel 3: 100.00%
+---
+Patch 611:
+  - Kernel 3: 100.00%
+---
+Patch 612:
+  - Kernel 3: 100.00%
+---
+Patch 613:
+  - Kernel 3: 100.00%
+---
+Patch 614:
+  - Kernel 3: 100.00%
+---
+Patch 615:
+  - Kernel 3: 100.00%
+---
+Patch 616:
+  - Kernel 3: 100.00%
+---
+Patch 617:
+  - Kernel 3: 100.00%
+---
+Patch 618:
+  - Kernel 3: 100.00%
+---
+Patch 619:
+  - Kernel 3: 100.00%
+---
+Patch 620:
+  - Kernel 3: 100.00%
+---
+Patch 621:
+  - Kernel 3: 100.00%
+---
+Patch 622:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 623:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 624:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 625:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 626:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 627:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 628:
+  - Kernel 3: 100.00%
+---
+Patch 629:
+  - Kernel 3: 100.00%
+---
+Patch 630:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 631:
+  - Kernel 3: 100.00%
+---
+Patch 632:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 633:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 634:
+  - Kernel 3: 100.00%
+---
+Patch 635:
+  - Kernel 3: 100.00%
+---
+Patch 636:
+  - Kernel 3: 100.00%
+---
+Patch 637:
+  - Kernel 3: 100.00%
+---
+Patch 638:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 639:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 640:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 641:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 642:
+  - Kernel 3: 100.00%
+---
+Patch 643:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 644:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 645:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 646:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 647:
+  - Kernel 3: 100.00%
+---
+Patch 648:
+  - Kernel 3: 100.00%
+---
+Patch 649:
+  - Kernel 3: 100.00%
+---
+Patch 650:
+  - Kernel 3: 100.00%
+---
+Patch 651:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 652:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 653:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 654:
+  - Kernel 3: 100.00%
+---
+Patch 655:
+  - Kernel 3: 100.00%
+---
+Patch 656:
+  - Kernel 3: 100.00%
+---
+Patch 657:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 658:
+  - Kernel 3: 100.00%
+---
+Patch 659:
+  - Kernel 3: 100.00%
+---
+Patch 660:
+  - Kernel 3: 100.00%
+---
+Patch 661:
+  - Kernel 3: 100.00%
+---
+Patch 662:
+  - Kernel 3: 100.00%
+---
+Patch 663:
+  - Kernel 3: 100.00%
+---
+Patch 664:
+  - Kernel 3: 100.00%
+---
+Patch 665:
+  - Kernel 3: 100.00%
+---
+Patch 666:
+  - Kernel 3: 100.00%
+---
+Patch 667:
+  - Kernel 3: 100.00%
+---
+Patch 668:
+  - Kernel 3: 100.00%
+---
+Patch 669:
+  - Kernel 3: 100.00%
+---
+Patch 670:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 671:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 672:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 673:
+  - Kernel 3: 100.00%
+---
+Patch 674:
+  - Kernel 3: 100.00%
+---
+Patch 675:
+  - Kernel 3: 100.00%
+---
+Patch 676:
+  - Kernel 3: 100.00%
+---
+Patch 677:
+  - Kernel 3: 100.00%
+---
+Patch 678:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 679:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 680:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 681:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 682:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 683:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 684:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 685:
+  - Kernel 3: 80.00%
+  - Kernel 2: 20.00%
+---
+Patch 686:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 687:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 688:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 689:
+  - Kernel 3: 100.00%
+---
+Patch 690:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 691:
+  - Kernel 3: 100.00%
+---
+Patch 692:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 693:
+  - Kernel 3: 100.00%
+---
+Patch 694:
+  - Kernel 3: 100.00%
+---
+Patch 695:
+  - Kernel 3: 100.00%
+---
+Patch 696:
+  - Kernel 3: 100.00%
+---
+Patch 697:
+  - Kernel 3: 100.00%
+---
+Patch 698:
+  - Kernel 3: 100.00%
+---
+Patch 699:
+  - Kernel 3: 100.00%
+---
+Patch 700:
+  - Kernel 3: 100.00%
+---
+Patch 701:
+  - Kernel 3: 100.00%
+---
+Patch 702:
+  - Kernel 3: 100.00%
+---
+Patch 703:
+  - Kernel 3: 100.00%
+---
+Patch 704:
+  - Kernel 3: 100.00%
+---
+Patch 705:
+  - Kernel 3: 100.00%
+---
+Patch 706:
+  - Kernel 3: 100.00%
+---
+Patch 707:
+  - Kernel 3: 100.00%
+---
+Patch 708:
+  - Kernel 3: 100.00%
+---
+Patch 709:
+  - Kernel 3: 100.00%
+---
+Patch 710:
+  - Kernel 3: 100.00%
+---
+Patch 711:
+  - Kernel 3: 100.00%
+---
+Patch 712:
+  - Kernel 3: 100.00%
+---
+Patch 713:
+  - Kernel 3: 100.00%
+---
+Patch 714:
+  - Kernel 3: 100.00%
+---
+Patch 715:
+  - Kernel 3: 100.00%
+---
+Patch 716:
+  - Kernel 3: 100.00%
+---
+Patch 717:
+  - Kernel 3: 100.00%
+---
+Patch 718:
+  - Kernel 3: 100.00%
+---
+Patch 719:
+  - Kernel 3: 100.00%
+---
+Patch 720:
+  - Kernel 3: 100.00%
+---
+Patch 721:
+  - Kernel 3: 100.00%
+---
+Patch 722:
+  - Kernel 3: 100.00%
+---
+Patch 723:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 724:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 725:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 726:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 727:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 728:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 729:
+  - Kernel 3: 100.00%
+---
+Patch 730:
+  - Kernel 3: 100.00%
+---
+Patch 731:
+  - Kernel 3: 100.00%
+---
+Patch 732:
+  - Kernel 3: 100.00%
+---
+Patch 733:
+  - Kernel 3: 100.00%
+---
+Patch 734:
+  - Kernel 3: 100.00%
+---
+Patch 735:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 736:
+  - Kernel 3: 100.00%
+---
+Patch 737:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 738:
+  - Kernel 3: 100.00%
+---
+Patch 739:
+  - Kernel 3: 100.00%
+---
+Patch 740:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 741:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 742:
+  - Kernel 3: 100.00%
+---
+Patch 743:
+  - Kernel 3: 100.00%
+---
+Patch 744:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 745:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 746:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 747:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 748:
+  - Kernel 3: 100.00%
+---
+Patch 749:
+  - Kernel 3: 100.00%
+---
+Patch 750:
+  - Kernel 3: 100.00%
+---
+Patch 751:
+  - Kernel 3: 100.00%
+---
+Patch 752:
+  - Kernel 3: 100.00%
+---
+Patch 753:
+  - Kernel 3: 100.00%
+---
+Patch 754:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 755:
+  - Kernel 3: 100.00%
+---
+Patch 756:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 757:
+  - Kernel 3: 100.00%
+---
+Patch 758:
+  - Kernel 3: 100.00%
+---
+Patch 759:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 760:
+  - Kernel 3: 100.00%
+---
+Patch 761:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 762:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 763:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 764:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 765:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 766:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 767:
+  - Kernel 3: 100.00%
+---
+Patch 768:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 769:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 770:
+  - Kernel 3: 100.00%
+---
+Patch 771:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 772:
+  - Kernel 3: 100.00%
+---
+Patch 773:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 774:
+  - Kernel 3: 100.00%
+---
+Patch 775:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 776:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 777:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 778:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 779:
+  - Kernel 3: 100.00%
+---
+Patch 780:
+  - Kernel 3: 100.00%
+---
+Patch 781:
+  - Kernel 3: 100.00%
+---
+Patch 782:
+  - Kernel 3: 100.00%
+---
+Patch 783:
+  - Kernel 3: 100.00%
+---
+Patch 784:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 785:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 786:
+  - Kernel 3: 100.00%
+---
+Patch 787:
+  - Kernel 3: 100.00%
+---
+Patch 788:
+  - Kernel 3: 100.00%
+---
+Patch 789:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 790:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 791:
+  - Kernel 3: 100.00%
+---
+Patch 792:
+  - Kernel 3: 100.00%
+---
+Patch 793:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 794:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 795:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 796:
+  - Kernel 3: 100.00%
+---
+Patch 797:
+  - Kernel 3: 100.00%
+---
+Patch 798:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 799:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 800:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 801:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 802:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 803:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 804:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 805:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 806:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 807:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 808:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 809:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 810:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 811:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 812:
+  - Kernel 3: 100.00%
+---
+Patch 813:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 814:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 815:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 816:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 817:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 818:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 819:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 820:
+  - Kernel 3: 100.00%
+---
+Patch 821:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 822:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 823:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 824:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 825:
+  - Kernel 3: 100.00%
+---
+Patch 826:
+  - Kernel 3: 100.00%
+---
+Patch 827:
+  - Kernel 3: 100.00%
+---
+Patch 828:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 829:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 830:
+  - Kernel 3: 80.00%
+  - Kernel 2: 20.00%
+---
+Patch 831:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 832:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 833:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 834:
+  - Kernel 3: 100.00%
+---
+Patch 835:
+  - Kernel 3: 100.00%
+---
+Patch 836:
+  - Kernel 3: 100.00%
+---
+Patch 837:
+  - Kernel 3: 100.00%
+---
+Patch 838:
+  - Kernel 3: 100.00%
+---
+Patch 839:
+  - Kernel 3: 100.00%
+---
+Patch 840:
+  - Kernel 3: 100.00%
+---
+Patch 841:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 842:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 843:
+  - Kernel 3: 90.00%
+  - Kernel 2: 10.00%
+---
+Patch 844:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 845:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 846:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 847:
+  - Kernel 3: 85.00%
+  - Kernel 2: 15.00%
+---
+Patch 848:
+  - Kernel 3: 95.00%
+  - Kernel 2: 5.00%
+---
+Patch 849:
+  - Kernel 3: 100.00%
+---
+Patch 850:
+  - Kernel 3: 100.00%
+---
+Patch 851:
+  - Kernel 3: 100.00%
+---
+Patch 852:
+  - Kernel 3: 100.00%
+---
+Patch 853:
+  - Kernel 3: 100.00%
+---

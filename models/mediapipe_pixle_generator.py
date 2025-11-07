@@ -2,9 +2,10 @@ import cv2
 import mediapipe as mp
 import os
 
-IMAGE_DIR = '/data2/masino_lab/abamini/Face2pheno/images_human'
-ANNOTATED_IMAGE_DIR = '/data2/masino_lab/abamini/Face2pheno/images_human_annotated'  #  save annotated images
-LANDMARK_SAVE_DIR = '/home/abamini/Face2pheno/images'  # save landmarks
+
+IMAGE_DIR = '/data2/masino_lab/abamini/Face2pheno/utkface_test'
+ANNOTATED_IMAGE_DIR = '/data2/masino_lab/abamini/Face2pheno/utkface_annotated'  #  save annotated images
+LANDMARK_SAVE_DIR = '/home/abamini/face2pheno/data/processed/landmark_pixel_coordinates_test'  # save landmarks
 
 # Make sure save dir exists
 os.makedirs(LANDMARK_SAVE_DIR, exist_ok=True)
@@ -32,6 +33,10 @@ with mp_face_mesh.FaceMesh(
             print(f"Cannot read {file}")
             continue
 
+        # Some UTKFace images might be grayscale, convert to BGR for processing
+        if len(image.shape) == 2:
+            image = cv2.cvtColor(image, cv2.COLOR_GRAY2BGR)
+
         image_height, image_width, _ = image.shape
 
         # Convert the BGR image to RGB before processing.
@@ -49,44 +54,25 @@ with mp_face_mesh.FaceMesh(
             # Save landmarks to a txt file
             landmark_filename = os.path.join(
                 LANDMARK_SAVE_DIR,
-                f'{os.path.splitext(os.path.basename(file))[0]}_landmarks_pixels.txt' # Changed filename slightly
+                f'{os.path.splitext(os.path.basename(file))[0]}_landmarks_pixels.txt'
             )
             with open(landmark_filename, 'w') as lm_file:
                 for i, lm in enumerate(face_landmarks.landmark):
                     pixel_x = int(lm.x * image_width)
                     pixel_y = int(lm.y * image_height)
                     
-                    # The z coordinate's scale is approximately the same as x's. 
-                    # We scale it by the width to keep it relative.
-                    pixel_z = lm.z * image_width
-                    
-                    visibility = lm.visibility if hasattr(lm, "visibility") else ""
-                    
-                    # Write the new pixel coordinates to the file 
-                    #lm_file.write(f'{i},{pixel_x},{pixel_y},{pixel_z},{visibility}\n')
+                    # Write the pixel coordinates to the file 
                     lm_file.write(f'{i},{pixel_x},{pixel_y}\n')
             
             print(f"Saved pixel landmarks to {landmark_filename}")
 
-            # Draw as before
+            # Drawing landmarks on the image (optional, for visualization)
             mp_drawing.draw_landmarks(
                 image=annotated_image,
                 landmark_list=face_landmarks,
                 connections=mp_face_mesh.FACEMESH_TESSELATION,
                 landmark_drawing_spec=None,
                 connection_drawing_spec=mp_drawing_styles.get_default_face_mesh_tesselation_style())
-            mp_drawing.draw_landmarks(
-                image=annotated_image,
-                landmark_list=face_landmarks,
-                connections=mp_face_mesh.FACEMESH_CONTOURS,
-                landmark_drawing_spec=None,
-                connection_drawing_spec=mp_drawing_styles.get_default_face_mesh_contours_style())
-            mp_drawing.draw_landmarks(
-                image=annotated_image,
-                landmark_list=face_landmarks,
-                connections=mp_face_mesh.FACEMESH_IRISES,
-                landmark_drawing_spec=None,
-                connection_drawing_spec=mp_drawing_styles.get_default_face_mesh_iris_connections_style())
                 
         # Save annotated image
         output_path = os.path.join(
