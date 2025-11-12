@@ -10,7 +10,7 @@ class FacialGNN(nn.Module):
     CNN to extract features from node patches, a GCN for message passing,
     and an MLP for the final classification.
     """
-    def __init__(self, input_channels, feature_dim=64, gcn_hidden_dim=128, output_dim=2):
+    def __init__(self, num_nodes, input_channels, feature_dim=64, gcn_hidden_dim=128, output_dim=2):
         super(FacialGNN, self).__init__()
         class CNNFeatureExtractor(nn.Module):
 

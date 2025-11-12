@@ -6,7 +6,7 @@ from torch_geometric.nn import GCNConv, global_mean_pool
 import config
 
 class FacialGNN(nn.Module):
-    def __init__(self, input_channels, feature_dim=64, gcn_hidden_dim=128, output_dim=2): # output_dim=2 for binary classification
+    def __init__(self, num_nodes, input_channels, feature_dim=64, gcn_hidden_dim=128, output_dim=2): # output_dim=2 for binary classification
         super(FacialGNN, self).__init__()
         # Simple CNN feature extractor:
         # One conv, relu, pooling, flatten, then linear to feature_dim

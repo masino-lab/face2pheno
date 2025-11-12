@@ -1,0 +1,5 @@
+model1 - FacialGNN module with single cnn and gnn.
+model2 - FacialGNN module with single cnn and gnn- changed the structure into nested classes(see code)
+model3 - FacialGNN module with cnn for each patch of gnn(Very slow)
+model4 - FacialGNN module with virtal nodes(supoer nodes) and cnn for each virtual node.
+model5 - FacialGNN module with specific virtal nodes(supoer nodes) and overall cnn and unique cnn for each specifc virtual node.

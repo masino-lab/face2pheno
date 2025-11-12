@@ -11,7 +11,6 @@ class FacialGNN(nn.Module):
     and an MLP for the final classification.
     
     """
-    
     def __init__(self, num_nodes, input_channels, feature_dim=64, gcn_hidden_dim=128, output_dim=2):
         super(FacialGNN, self).__init__()
         
@@ -116,7 +115,7 @@ class FacialGNN(nn.Module):
         # 6. Classify (This part is unchanged)
         output = self.mlp(graph_representation)
 
-        # --- Kernel and Activation handling ---
+        # Kernel and Activation handling 
         if return_activations:
             # 'activations' is now the tensor we built in the loop
             activations = all_activations 

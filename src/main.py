@@ -6,7 +6,7 @@ from torch_geometric.loader import DataLoader
 from torch.utils.data import random_split
 # import torch.nn.functional as F # No longer needed here
 from dataset import FacialGraphDataset
-from model_test import FacialGNN
+from model_2 import FacialGNN
 from evaluation import plot_curves
 from datetime import datetime
 import numpy as np  
@@ -53,7 +53,7 @@ def main():
     # --- UPDATED ---
     # The model's output dimension is now set dynamically from config
     model = FacialGNN(
-        num_nodes=config.NUM_NODES,
+        num_nodes=config.NUM_SUPER_NODES if config.USE_SUPER_NODES else config.NUM_TRIANGLES,
         input_channels=config.IMAGE_CHANNELS,
         output_dim=config.NUM_CLASSES 
     ).to(config.DEVICE)
@@ -89,10 +89,7 @@ def main():
     # ####################################################################################
     print("\nStarting evaluation for aggregate statistics...")
     model.eval()
-
-    # --- UPDATED ---
-    # These values are now read dynamically from config
-    NUM_PATCHES = 854 # This seems static, so leaving it hard-coded
+    NUM_PATCHES = 854 
     NUM_KERNELS = config.NUM_KERNELS  
     NUM_CLASSES = config.NUM_CLASSES # Now read from config
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")

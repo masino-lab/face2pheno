@@ -5,7 +5,7 @@ import os
 from scipy import stats
 import matplotlib.pyplot as plt
 import seaborn as sns
-import face2pheno.src.config as config  # <-- ADDED: To get NUM_CLASSES
+import config  
 
 def load_and_process_data(filepath):
     """
@@ -240,4 +240,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-#/data2/masino_lab/abamini/Face2pheno/image_activations/image_activation_records_age_classification_multi-class_20251104_072150.json
+#/data2/masino_lab/abamini/Face2pheno/image_activations/image_activation_records_age_classification_multi-class_20251110_123708.json
